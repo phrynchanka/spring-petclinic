@@ -28,7 +28,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PetClinicApplication {
 
     /**
-     * FYI
+     * FYI2
      *
      * @param args
      * @throws Exception
